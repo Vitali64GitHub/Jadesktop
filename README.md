@@ -1,8 +1,8 @@
 <img src="./src/images/logo.svg" alt="drawing" width="80"/>  
 
-## Just Another Desktop Environment  &nbsp;&nbsp;[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Just%20Another%20Desktop%20Environment%20for%20Manjaro%20WebDad%20Community%20Edition.&url=https://github.com/codesardine/Jadesktop/&via=codesardine&hashtags=linux,html,javascript,python,webkit,css,manjaro,jadesktop)
+## Desktop4All  &nbsp;&nbsp;[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Just%20Another%20Desktop%20Environment%20for%20Manjaro%20WebDad%20Community%20Edition.&url=https://github.com/codesardine/Jadesktop/&via=codesardine&hashtags=linux,html,javascript,python,webkit,css,manjaro,jadesktop)
 
-Desktop Environment built with Web Technologies, HTML/CSS and VueJS for the UI, backend is QT and GTK.
+A Fork of JADE built with Web Technologies, HTML/CSS and VueJS for the UI, backend is QT and GTK.
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/7197c9d3255543d39ec9a15623ee0e51)](https://www.codacy.com/app/codesardine/Jadesktop?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=codesardine/Jadesktop&amp;utm_campaign=Badge_Grade)
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/JustAnotherDesktopEnviroment/Lobby)
