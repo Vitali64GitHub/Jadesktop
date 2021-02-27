@@ -1,6 +1,6 @@
-<img src="./src/images/logo.svg" alt="drawing" width="80"/>  
 
-## Desktop4All  &nbsp;&nbsp;[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Just%20Another%20Desktop%20Environment%20for%20Manjaro%20WebDad%20Community%20Edition.&url=https://github.com/codesardine/Jadesktop/&via=codesardine&hashtags=linux,html,javascript,python,webkit,css,manjaro,jadesktop)
+
+## Desktop4All  
 
 A Fork of JADE built with Web Technologies, HTML/CSS and VueJS for the UI, backend is QT and GTK.
 
@@ -19,9 +19,6 @@ Read more about it here (https://forum.manjaro.org/t/call-for-testers-jade-deskt
 ## Acknowledgments
 * State Beta
 * Small codebase anyone with HTML/CSS skills can change the desktop to look and behave differently.
-
-### Packaging
-* Any related packages can be found on [gitlab](https://gitlab.manjaro.org/packages/community/jade).
 
 ## Features
 * Clean and minimalistic interface
@@ -48,8 +45,8 @@ Read more about it here (https://forum.manjaro.org/t/call-for-testers-jade-deskt
 * ISO images can be found on [ODSN](https://osdn.net/projects/manjaro-community/storage/webdad/).
 
 ### Prerequisites
-* [Menu Data](https://github.com/codesardine/jade-menu-data)
-* [JAK](https://github.com/codesardine/Jade-Application-Kit) 
+* [Codesardine's Menu Data](https://github.com/codesardine/jade-menu-data)
+* [Codesardine's JadeApplicationKit](https://github.com/codesardine/Jade-Application-Kit) 
 * Python GObject Introspection 
 * Python-Dbus
 * Gnome Menu GObject Introspection
