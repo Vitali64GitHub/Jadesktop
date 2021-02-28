@@ -1,7 +1,7 @@
 
 
-## Desktop4All  
-
+## VEDE
+### Short for Vitali64's Enhanced jaDE
 A Fork of JADE built with Web Technologies, HTML/CSS and VueJS for the UI, backend is QT and GTK.
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/7197c9d3255543d39ec9a15623ee0e51)](https://www.codacy.com/app/codesardine/Jadesktop?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=codesardine/Jadesktop&amp;utm_campaign=Badge_Grade)
